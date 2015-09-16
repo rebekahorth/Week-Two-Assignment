@@ -1,10 +1,7 @@
-# Default shell for a Python 3.x program
-# Copy this and rename it to write your own code
-#
 __author__ = 'Rebekah Orth'
 
 # CIS 125 Fall 2015
-# Name of program
+# Temperature Table
 #
 # Brief description of what program does.
 
